@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sdependencytest",
+  "name": "Test Mod",
+  "description": "Test mod to test dependencies.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["suppergerrie2"],
+  "credits": "The Forge and FML guys, for making this forge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
